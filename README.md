@@ -3,9 +3,11 @@
 
 ![c1](https://github.com/VikasKarbail/COVID-19-Critical-Care-Bed-Reservation/assets/117006055/3820bd04-0ffa-4055-bbdc-b8b8b690c736)
 
-<p style="color:blue"> Homepage provides access to the user login page, admin login page, and signup page. For first-time website users, we facilitate signup by requesting their SRF ID, email, and date of birth.</p>
+<p> <b>Homepage</b> provides access to the user login page, admin login page, and signup page. For first-time website users, we facilitate signup by requesting their SRF ID, email, and date of birth.</p>
 
 ![c3](https://github.com/VikasKarbail/COVID-19-Critical-Care-Bed-Reservation/assets/117006055/c0e21c70-66a6-4ecc-b2d0-495116cf0927)
+
+<p> <b>Admin login</b> will allow the administrator to add hospitals to the application. The <b>Login page</b> will enable users to check available beds in hospitals and also book beds. <b>Hospital login</b> will allow hospitals to add available beds to their inventory and update bed information.</p>
 
 ![c7](https://github.com/VikasKarbail/COVID-19-Critical-Care-Bed-Reservation/assets/117006055/7dceb8e5-cdbf-4c05-a27e-0c68b5b701ca)
 
