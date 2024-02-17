@@ -3,7 +3,7 @@
 
 ![c1](https://github.com/VikasKarbail/COVID-19-Critical-Care-Bed-Reservation/assets/117006055/3820bd04-0ffa-4055-bbdc-b8b8b690c736)
 
-<p> <h2>Homepage</h2> provides access to the user <h3>login page</h3>, <h3>admin login page</h3>, and <h3>signup page</h3>. For first-time website users, we facilitate signup by requesting their SRF ID, email, and date of birth.</p>
+<p style="color:blue"> Homepage provides access to the user login page, admin login page, and signup page. For first-time website users, we facilitate signup by requesting their SRF ID, email, and date of birth.</p>
 
 ![c3](https://github.com/VikasKarbail/COVID-19-Critical-Care-Bed-Reservation/assets/117006055/c0e21c70-66a6-4ecc-b2d0-495116cf0927)
 
